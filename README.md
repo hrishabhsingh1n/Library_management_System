@@ -1,2 +1,2 @@
 # Library_management_System
-Library management system using pyhton, django, html, css
+Library management system using html and python.
